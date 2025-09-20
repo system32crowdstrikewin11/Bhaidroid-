@@ -388,7 +388,7 @@ process.on('SIGINT', () => {
 nano index.html
 ```
 
-**Copy and paste the complete HTML code from the secure website artifact above** (the one with the blue gradient design and file upload interface)
+**Copy and paste the complete HTML code from the secure website above** (the one with the blue gradient design and file upload interface)
 
 **Save and exit** (Ctrl+X, then Y, then Enter)
 
