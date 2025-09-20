@@ -14,7 +14,7 @@ npm init -y
 ##  **Step 2: Install Dependencies**
 
 ```bash
-# Install required packages
+# Install required packagesj
 npm install express multer cors helmet express-rate-limit
 
 # Verify installation
