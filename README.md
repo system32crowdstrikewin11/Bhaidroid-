@@ -974,7 +974,7 @@ chmod +x start.sh
 
 ## 🌐 **Step 5: Install Cloudflare Tunnel (Optional)**
 
-### **Install cloudflared(in proot btw) :**
+### **Install cloudflared(in proot btw and u probably won't need that ig) :**
 ```bash
 # Download for Android ARM64
 wget https://github.com/cloudflare/cloudflared/releases/latest/download/cloudflared-linux-arm64
@@ -986,6 +986,7 @@ chmod +x cloudflared-linux-arm64
 
 
 **Copy and paste:**
+```nano start``
 ```bash
 #!/data/data/com.termux/files/usr/bin/bash
 
